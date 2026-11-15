@@ -43,14 +43,25 @@ Term_01/
 
 > **Term 1 is finished.** Final grades are posted (see table above).
 
-## Term 2 Courses (AY2027-T1) — In Progress
+## Term 2 Courses (AY2027-T1) — Final Results
+
+| Course | Instructor | Status | Grade |
+|---|---|---|---|
+| [ENGL 1102-01 — English Composition 2](<Term_02/ENGL 1102-01 English Composition 2 - AY2027-T1>) | Aparna Rajith (aparna.rajith@uopeople.edu) | PASSED | 100% |
+| [BUS 1102-01 — Basic Accounting](<Term_02/BUS 1102-01 Basic Accounting - AY2027-T1>) | Richmond Agyarkoh (richmond.agyarkoh@uopeople.edu) | PASSED | 100% |
+
+> **Term 2 is finished.** Final grades: 100% in both courses. (Course type and credits
+> earned not yet logged here — see note in `student-profile-saira.md`.)
+
+## Term 3 Courses (AY2027-T2) — In Progress
 
 | Course | Instructor |
 |---|---|
-| [ENGL 1102-01 — English Composition 2](<Term_02/ENGL 1102-01 English Composition 2 - AY2027-T1>) | Aparna Rajith (aparna.rajith@uopeople.edu) |
-| [BUS 1102-01 — Basic Accounting](<Term_02/BUS 1102-01 Basic Accounting - AY2027-T1>) | Richmond Agyarkoh (richmond.agyarkoh@uopeople.edu) |
+| [POLS 1503-01 — Globalization](<Term_03/POLS 1503-01 Globalization - AY2027-T2>) | Sahar Eissa (sahar.eissa@uopeople.edu) |
+| [BUS 1104-01 — Macroeconomics](<Term_03/BUS 1104-01 Macroeconomics - AY2027-T2>) | Preethi Raju (Preethi.Raju@uopeople.edu) |
+| [BUS 2201-01 — Principles of Marketing](<Term_03/BUS 2201-01 Principles of Marketing - AY2027-T2>) | Peta Gay Waugh (Petagay.Waugh@uopeople.edu) |
 
-> **Term 2, Unit 1 is currently in progress.**
+> **Term 3 has just started.**
 
 ## Discussion deadlines
 

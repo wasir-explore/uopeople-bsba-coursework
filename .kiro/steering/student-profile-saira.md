@@ -15,9 +15,8 @@ directory.
 - **School:** University of the People (UoPeople)
 - **Term 1 start date:** June 18
 - **Term structure:** Every term consists of 9 units; each unit is 1 week long.
-- **Current progress:** Term 1 finished, final grades posted (see table below). Term 2
-  (AY2027-T1) is in progress — currently at Unit 8 (the ENGL 1102-01 compiled research paper
-  is due Oct 29, 2026 on the portal; title-page date Oct 28, 2026).
+- **Current progress:** Term 1 and Term 2 finished, final grades posted (see tables below).
+  Term 3 (AY2027-T2) has just started.
 
 ## Term 1 Courses (AY2026-T5) — Final Results
 
@@ -26,14 +25,25 @@ directory.
 | UNIV 1002-01 — Online Education Strategies for Non-Native English Speakers | Required | 3 | Daniel Ndula Tatung | PASSED | 96 / A |
 | BUS 1101-01 — Principles of Business Management | Elective | 3 | Jose Perez | PASSED | 98 / A+ |
 
-## Term 2 Courses (AY2027-T1) — In Progress (Unit 8)
+## Term 2 Courses (AY2027-T1) — Final Results
+
+| Course | Instructor | Status | Grade |
+|---|---|---|---|
+| ENGL 1102-01 — English Composition 2 | Aparna Rajith (aparna.rajith@uopeople.edu) | PASSED | 100% |
+| BUS 1102-01 — Basic Accounting | Richmond Agyarkoh (richmond.agyarkoh@uopeople.edu) | PASSED | 100% |
+
+> Course type and credits earned for Term 2 are not yet confirmed — fill in once known, to
+> match the Term 1 table format.
+
+## Term 3 Courses (AY2027-T2) — In Progress (Unit 1)
 
 | Course | Instructor |
 |---|---|
-| ENGL 1102-01 — English Composition 2 | Aparna Rajith (aparna.rajith@uopeople.edu) |
-| BUS 1102-01 — Basic Accounting | Richmond Agyarkoh (richmond.agyarkoh@uopeople.edu) |
+| POLS 1503-01 — Globalization | Sahar Eissa (sahar.eissa@uopeople.edu) |
+| BUS 1104-01 — Macroeconomics | Preethi Raju (Preethi.Raju@uopeople.edu) |
+| BUS 2201-01 — Principles of Marketing | Peta Gay Waugh (Petagay.Waugh@uopeople.edu) |
 
-Term 2, Unit 8 is running now (as of this update). Update this table as new terms start,
+Term 3, Unit 1 is running now (as of this update). Update this table as new terms start,
 and update unit progress notes as units advance.
 
 ## Discussion Deadlines (applies to all current courses unless a specific unit says otherwise)
