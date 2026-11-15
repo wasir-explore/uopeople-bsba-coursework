@@ -1,0 +1,25 @@
+# Unit 1 Discussion: GDP and Economic Growth
+
+**Country chosen:** Bangladesh
+
+For this discussion, I chose Bangladesh, mainly because its growth story over the past few decades is such a dramatic shift from where it started as one of the world's poorest countries at independence in 1971 (World Bank, 2023).
+
+Two economic factors stand out most clearly in Bangladesh's case: export-oriented manufacturing, specifically the ready-made garment (RMG) industry, and the overall level of domestic investment. The RMG sector alone accounts for about 82% of the country's total exports (World Bank, 2026a). That is an enormous concentration in a single industry, and it shows up directly in the national GDP data whenever that sector shifts. When Bangladesh's export growth slowed and investment stayed weak heading into fiscal year 2024, the World Bank (2025) pointed to those two things specifically as the reason overall GDP growth cooled off that year. So the evidence is not just that these factors matter in theory, it is that GDP moves up or down almost in step with them.
+
+The textbook's discussion of labor productivity and the aggregate production function helps explain why RMG had such an outsized effect (Shapiro et al., 2023). Garment factories pulled millions of workers, especially women, out of low-productivity rural and informal work and into formal manufacturing jobs. Since 2000, female labor force participation in Bangladesh has risen by 32% (World Bank, 2023), and a large share of that shift is tied directly to garment-sector employment. Each worker added to a factory line producing goods for export contributes more to measured output than the same person would farming a small plot or doing unpaid household work, so the sector's growth does not just add jobs, it raises the economy's overall output per worker, which is exactly the human-capital and workforce channel Chapter 7 describes. Investment works through a related channel: new factories, power generation, and ports require capital spending before they can generate output, which is the physical-capital piece of that same aggregate production function. When investment slowed heading into FY24, that pipeline of future output slowed with it, which is why the World Bank flagged weak investment as a real growth constraint rather than a side detail.
+
+The numbers on quality of life are genuinely striking. GDP per capita rose more than twentyfold, from $128 in 1971 to $2,742 in 2022, and extreme poverty fell from 9.0% in 2016 to 5.0% in 2022 (World Bank, 2023). Electricity access is now essentially universal, and primary school enrollment sits at 97%. Those are the kinds of changes that show up in daily life, not just in a spreadsheet: families with lights at home, kids in school instead of working, more women earning an independent income.
+
+At the same time, this is a good example of why Section 6.5 of the textbook spends so much time on GDP's limitations (Shapiro et al., 2023). Aggregate growth does not guarantee that every household benefits equally, and the official numbers can mask real setbacks. Even with decades of strong growth, around 21 million Bangladeshis still live in extreme poverty, nearly nine out of ten workers remain in the informal sector, and three out of five are in vulnerable employment (World Bank, 2026a). And when growth slows even briefly, the effect on people is immediate: poverty rose by roughly 1.4 million people in just the FY24–25 period (World Bank, 2026b). That tells me GDP growth is a real and necessary ingredient in improving people's lives, but it is not sufficient by itself. Whether the gains reach ordinary households still depends on things GDP does not measure directly, like job quality, how broadly growth is shared, and how resilient the economy is when one dominant export sector hits a rough patch.
+
+## References
+
+Shapiro, D., MacDonald, D., Greenlaw, S. A., Dodge, E., Gamez, C., Jauregui, A., Keenan, D., Moledina, A., Richardson, C., & Sonenshine, R. (2023). *Principles of macroeconomics* (3rd ed.). OpenStax. https://openstax.org/details/books/principles-macroeconomics-3e
+
+World Bank. (2023, November 20). *Bangladesh: A fifty-year partnership in development achievements*. https://www.worldbank.org/en/results/2023/11/20/bangladesh-a-fifty-year-partnership-in-development-achievements
+
+World Bank. (2025, April 23). *Strong economic and fiscal reforms will help Bangladesh sustain growth amid global uncertainty*. https://www.worldbank.org/en/news/press-release/2025/04/23/strong-economic-and-fiscal-reforms-will-help-bangladesh-sustain-growth-amid-global-uncertainty
+
+World Bank. (2026a, February 26). *Diversifying exports for better jobs in Bangladesh*. https://www.worldbank.org/en/results/2026/02/26/diversifying-exports-for-better-jobs-in-bangladesh
+
+World Bank. (2026b, April). *Macro poverty outlook for Bangladesh: April 2026 datasheet*. https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099117008192640333
