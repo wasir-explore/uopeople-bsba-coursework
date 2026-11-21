@@ -78,6 +78,8 @@ writing-quality rules and student-specific context available across sessions:
 - `assignment-writing-rules.md` — general, name-agnostic rules for citations, tone, word
   count, discussion posts, and peer replies.
 - `student-profile-saira.md` — this student's program, courses, instructors, and schedule.
+- `bus1104-instructor-feedback.md` — graded results and instructor feedback for BUS 1104
+  Macroeconomics, with standing rules drawn from it.
 
 This repo is separate and independent from the coursework repo of another student in the
 same household (different program, different courses in some cases, different instructors)
