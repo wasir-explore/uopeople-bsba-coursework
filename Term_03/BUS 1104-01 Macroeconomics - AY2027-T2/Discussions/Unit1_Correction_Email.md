@@ -4,7 +4,7 @@
 **Status:** draft, not yet confirmed sent
 **Subject:** BUS 1104 Unit 1 Discussion Forum: wrong post uploaded by mistake, request to replace and regrade
 
-Dear Professor Raju,
+Dear Instructor Raju,
 
 I hope you are well. I am writing about my Unit 1 Discussion Forum grade (55/100) in BUS 1104-01. Thank you for the detailed feedback. It showed me that I made a mistake when I submitted.
 
