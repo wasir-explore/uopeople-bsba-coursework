@@ -50,3 +50,23 @@ rules" so it is handled in the first draft.
     source before citing it.
 - **Lesson carried forward:** see Standing rule 1. For later units, add named examples in the
   first draft.
+
+### Unit 1 Discussion Forum — wrong post submitted (55 / 100)
+
+- **Score:** 55 / 100 (3.85 / 7 course points, 55%). Posted Nov 16, 2026.
+- **Cause:** the file uploaded to the forum was a post on public and private sector
+  interdependence (Operation Warp Speed, World Bank hybrid PPPs). It was written for a
+  different course and did not answer the BUS 1104 prompt. The correct post is
+  `Term_03/BUS 1104-01 Macroeconomics - AY2027-T2/Discussions/Unit1_Discussion.md`
+  (Bangladesh GDP case study, committed 2026-11-15).
+- **Instructor feedback:** the post named no country, gave no GDP data, and did not cover
+  well-being or income distribution. The grader called it "clear and well-argued."
+- **Action:** email to Preethi Raju asking to replace the post and regrade. Draft saved in
+  `Term_03/BUS 1104-01 Macroeconomics - AY2027-T2/Discussions/Unit1_Correction_Email.md`.
+  Outcome: pending.
+- **Lesson carried forward:** before submitting, open the file being uploaded and check its
+  topic, country, and citations against the unit's prompt and readings (Shapiro et al.,
+  2023, Chapters 6 and 7).
+- **Open improvements to the correct post** (apply if it is resubmitted): add named firms or
+  events (H&M, Zara, Walmart, Grameen Bank, bKash, COVID-19 export shock) and an income
+  distribution figure (Gini or income share), each with a verified source.
